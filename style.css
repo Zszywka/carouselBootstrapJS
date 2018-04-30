@@ -1,0 +1,27 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+h1, h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+img {
+  width: 460;
+  height: 345;
+}
+
+.carousel-control.right,
+.carousel-control.left {
+    background-image: none;
+}
+
+.glyphicon-chevron-left:before,
+.glyphicon-chevron-right:before {
+  color: black;
+  font-size: 30px;
+}
